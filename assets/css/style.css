@@ -1,0 +1,30 @@
+#home{
+    position: absolute;
+    height: 93vh;
+    width: 98.9vw;
+    left: 0;
+    background: #1c7430;
+}
+
+#home > div:first-child {
+    position: absolute;
+    height: 12vh;
+    width: 80vw;
+    margin: auto;
+    top: 28vh;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align:center;
+    background: transparent;
+}
+
+#home > div:first-child > h1 {
+    color: white;
+    font-size: 4em;
+}
+
+#home > img {
+    height: 93vh;
+    width: 98.9vw;
+}
