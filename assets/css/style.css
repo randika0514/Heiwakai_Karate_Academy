@@ -27,4 +27,5 @@
 #home > img {
     height: 93vh;
     width: 98.9vw;
+    z-index: 10;
 }
